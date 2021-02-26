@@ -1,0 +1,44 @@
+#content{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 195, 255);
+    color: white;
+    text-align: center;
+  }
+  h1{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h3{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .bg-1 {
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+    border-radius: 80%;
+    position:center;
+  }
+ .col-md-2 {
+      color:#1abc9c;
+      font-family: Arial, Helvetica, sans-serif;
+         
+  }
+
+  .col-md-4 {
+    color:#1abc9c;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.col-md-6{
+    color:#1abc9c;
+    font-family: Arial, Helvetica, sans-serif;
+      
+}
